@@ -12,7 +12,7 @@ for (int i = 0; i < numbers.Length; i++)
         }
     }
 
-    if (x == true)
+    if (x)
     {
         Console.WriteLine(numbers[i]);
     }
