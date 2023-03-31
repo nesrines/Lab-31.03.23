@@ -5,4 +5,4 @@ for (int i = 0; i < numbers.Length; i++)
     Console.WriteLine(numbers[i]);
     sum += numbers[i];
 }
-Console.WriteLine("cem = " + sum);
+Console.WriteLine("sum = " + sum);
